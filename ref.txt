@@ -5,3 +5,5 @@ https://bezkoder.com/react-redux-crud-example/
 https://bezkoder.com/react-spring-boot-crud/#Create_038_Setup_Spring_Boot_projecthttps://bezkoder.com/react-spring-boot-crud/#Create_038_Setup_Spring_Boot_projecthttps://bezkoder.com/react-spring-boot-crud/#Create_038_Setup_Spring_Boot_projecthttps://bezkoder.com/react-spring-boot-crud/#Create_038_Setup_Spring_Boot_projecthttps://bezkoder.com/react-spring-boot-crud/#Create_038_Setup_Spring_Boot_projecthttps://bezkoder.com/react-spring-boot-crud/#Create_038_Setup_Spring_Boot_projecthttps://bezkoder.com/react-spring-boot-crud/#Create_038_Setup_Spring_Boot_projecthttps://bezkoder.com/react-spring-boot-crud/#Create_038_Setup_Spring_Boot_projecthttps://bezkoder.com/react-spring-boot-crud/#Create_038_Setup_Spring_Boot_projecthttps://bezkoder.com/react-spring-boot-crud/#Create_038_Setup_Spring_Boot_project
 
 https://computingforgeeks.com/how-to-install-wildfly-jboss-on-rhel-centos/
+
+http://www.mastertheboss.com/jboss-frameworks/spring/spring-boot-hello-world-on-wildfly
